@@ -83,8 +83,6 @@ Responsável pela manutenção, configuração, evolução e gerenciamento técn
 
 O fluxo principal esperado será:
 
-```
-```
 
 ```
 Produto chega à empresa
