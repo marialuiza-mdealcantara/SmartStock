@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/31000053/README.md)
+
 # 🧠 SmartStock
 
 > **Sistema inteligente de catalogação, precificação e preparação de
@@ -240,8 +240,12 @@ evoluída**.
 
 ------------------------------------------------------------------------
 
-::: {align="center"}
+---
+
+<div align="center">
+
 ### 🚧 SmartStock
 
-**Do produto físico ao anúncio --- com inteligência e automação.**
-:::
+**Do produto físico ao anúncio — com inteligência e automação.**
+
+</div>
